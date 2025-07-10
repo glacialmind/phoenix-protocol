@@ -1,5 +1,6 @@
 # Phoenix Protocol
 
+**ITA**
 Protocollo mentale e strategico per risollevarsi da contesti compromessi, mantenendo freddezza, dignità e visione.
 
 ---
